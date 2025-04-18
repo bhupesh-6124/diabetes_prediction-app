@@ -5,7 +5,6 @@ pandas
 mysql-connector-python
 pickle-mixin
 joblib
-os
 random
 nltk
 cryptography
