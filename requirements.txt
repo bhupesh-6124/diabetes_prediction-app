@@ -1,9 +1,9 @@
 streamlit
 flask
-sckit-learn
+scikit-learn
 pandas
-mysql
-pickle
+mysql-connector-python
+pickle-mixin
 joblib
 os
 random
@@ -15,4 +15,3 @@ io
 flask_sqlalchemy
 flask_mail
 flask_bcrypt
-Flask
