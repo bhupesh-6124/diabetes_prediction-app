@@ -12,3 +12,7 @@ cryptography
 xhtml2pdf
 datetime
 io
+flask_sqlalchemy
+flask_mail
+flask_bcrypt
+Flask
