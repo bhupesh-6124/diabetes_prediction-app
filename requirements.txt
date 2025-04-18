@@ -1,1 +1,14 @@
 streamlit
+flask
+sckit-learn
+pandas
+mysql
+pickle
+joblib
+os
+random
+nltk
+cryptography
+xhtml2pdf
+datetime
+io
